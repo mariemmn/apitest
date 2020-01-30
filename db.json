@@ -1,0 +1,23 @@
+{
+  "account": {
+    "id": 1,
+    "toPay": "0.00",
+    "currentBalance": "0.00"
+  },
+  "transactions": [
+    {
+      "id": 1,
+      "title": "One of a kind",
+      "amount": "120.00",
+      "image": "",
+      "icon": ""
+    },
+    {
+      "id": 2,
+      "title": "Brite Electrical",
+      "amount": "159.00",
+      "image": "",
+      "icon": ""
+    }
+  ]
+}
