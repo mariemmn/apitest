@@ -8,16 +8,42 @@
     {
       "id": 1,
       "title": "One of a kind",
-      "amount": "120.00",
-      "image": "",
-      "icon": ""
+      "price": "120.00",
+      "url": "https://images.unsplash.com/photo-1417325384643-aac51acc9e5d?q=75&fm=jpg&w=1080&fit=max",
+      "iconProps": {
+         "color": '#fff',
+         "spec": {
+            "libName": 'ion',
+            "name": 'logo-bitcoin',
+            "size": 20,
+            "style": {
+                  "textAlign": 'center',
+                  "backgroundColor": '#deba08',
+                  "padding": 10,
+                  "borderRadius": 25,
+             },
+          },
+        },
     },
     {
       "id": 2,
       "title": "Brite Electrical",
-      "amount": "159.00",
-      "image": "",
-      "icon": ""
+      "price": "159.00",
+      "url": "https://images.unsplash.com/photo-1417325384643-aac51acc9e5d?q=75&fm=jpg&w=1080&fit=max",
+      "iconProps": {
+         "color": '#fff',
+         "spec": {
+            "libName": 'ion',
+            "name": 'logo-bitcoin',
+            "size": 20,
+            "style": {
+                  "textAlign": 'center',
+                  "backgroundColor": '#deba08',
+                  "padding": 10,
+                  "borderRadius": 25,
+             },
+          },
+        },
     }
   ]
 }
